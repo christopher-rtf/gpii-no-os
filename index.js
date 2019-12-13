@@ -1,5 +1,5 @@
 /*
- * GPII "No OS" Personalization Framework Node.js Bootstrap
+ * GPII Universal Personalization Framework GPII "no-os" Index
  *
  * Copyright 2019 Raising the Floor -- US Inc. All rights reserved.
  * Copyright 2014 Lucendo Development Ltd.

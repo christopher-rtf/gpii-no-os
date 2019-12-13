@@ -8,7 +8,7 @@
   },
   "homepage": "http://gpii.net/",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "dependencies": {
     "gpii-universal": "JavierJF/universal#GPII-3810"

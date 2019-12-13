@@ -2,7 +2,7 @@
  * GPII "No OS" Personalization Framework Node.js Bootstrap
  *
  * Copyright 2019 Raising the Floor -- US Inc. All rights reserved.
- * Copyright 2012 OCAD University
+ * Copyright 2014 Lucendo Development Ltd.
  *
  * Licensed under the New BSD license. You may not use this file except in
  * compliance with this License.
@@ -23,9 +23,6 @@
 
 "use strict";
 
-var fluid = require("gpii-universal"),
-    gpii = fluid.registerNamespace("gpii");
+var fluid = require("gpii-universal");
 
-require("./index.js");
-
-gpii.start();
+module.exports = fluid;

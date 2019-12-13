@@ -1,0 +1,31 @@
+{
+  "name": "gpii-no-os",
+  "description": "Stub definitions suitable for booting up the GPII Morphic UI implemented in gpii-app without platform-specific support",
+  "version": "0.3.0",
+  "author": "Raising the Floor -- US Inc.",
+  "bugs": {
+    "url": "http://issues.gpii.net/browse/GPII"
+  },
+  "homepage": "http://gpii.net/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gpii-universal": "JavierJF/universal#GPII-3810"
+  },
+  "os": [
+    "!win32"
+  ],
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "gpii"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GPII/gpii-no-os.git"
+  },
+  "main": "./gpii.js",
+  "engines": {
+    "node": ">=6.3.1"
+  }
+}

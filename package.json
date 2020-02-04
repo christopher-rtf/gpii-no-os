@@ -11,9 +11,10 @@
     "test": "exit 0"
   },
   "dependencies": {
-    "gpii-universal": "JavierJF/universal#GPII-3810"
+    "gpii-universal": "0.3.0-dev.20191211T142911Z.0af24fabe"
   },
   "os": [
+    "!darwin",
     "!win32"
   ],
   "license": "BSD-3-Clause",

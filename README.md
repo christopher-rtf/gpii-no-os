@@ -10,7 +10,7 @@ system, this "no-os" module can be used as the basis for that OS's new platform-
 
 ## Building the "no-os" stubs
 
-This package depends on node 6.x (LTS).
+This package depends on node 12.x (LTS).
 
 To build the no-os stubs for GPII, perform the following:
 

@@ -25,4 +25,9 @@
 
 var fluid = require("gpii-universal");
 
+var gpii = fluid.registerNamespace("gpii");
+var osstubs = fluid.registerNamespace("gpii.osstubs");
+
+require("./gpii/node_modules/OSStubsUtilities/OSStubsUtilities.js");
+
 module.exports = fluid;

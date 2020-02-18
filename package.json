@@ -1,5 +1,5 @@
 {
-  "name": "gpii-no-os",
+  "name": "gpii-os-stubs",
   "description": "Stub definitions suitable for booting up the GPII Morphic UI implemented in gpii-app without platform-specific support",
   "version": "0.3.0",
   "author": "Raising the Floor -- US Inc.",
@@ -11,7 +11,7 @@
     "test": "exit 0"
   },
   "dependencies": {
-    "gpii-universal": "christopher-rtf/universal#d682036"
+    "gpii-universal": "github:christopher-rtf/universal#4f5b7b6"
   },
   "os": [
     "!darwin",
@@ -23,10 +23,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GPII/gpii-no-os.git"
+    "url": "git+https://github.com/GPII/gpii-os-stubs.git"
   },
   "main": "./gpii.js",
   "engines": {
-    "node": ">=6.3.1"
+    "node": ">=10.16.3"
   }
 }

@@ -1,5 +1,5 @@
 /*
- * GPII "No OS" Personalization Framework Node.js Bootstrap
+ * GPII "OS Stubs" Personalization Framework Node.js Bootstrap
  *
  * Copyright 2020 Raising the Floor -- US Inc. All rights reserved.
  * Copyright 2012 OCAD University

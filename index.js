@@ -1,7 +1,7 @@
 /*
  * GPII Universal Personalization Framework GPII "OS Stubs" Index
  *
- * Copyright 2019 Raising the Floor -- US Inc. All rights reserved.
+ * Copyright 2020 Raising the Floor -- US Inc. All rights reserved.
  * Copyright 2014 Lucendo Development Ltd.
  *
  * Licensed under the New BSD license. You may not use this file except in
@@ -29,5 +29,6 @@ var gpii = fluid.registerNamespace("gpii");
 var osstubs = fluid.registerNamespace("gpii.osstubs");
 
 require("./gpii/node_modules/OSStubsUtilities/OSStubsUtilities.js");
+require("./gpii/node_modules/nativeSettingsHandler");
 
 module.exports = fluid;

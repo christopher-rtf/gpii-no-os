@@ -11,7 +11,7 @@
     "test": "exit 0"
   },
   "dependencies": {
-    "gpii-universal": "github:christopher-rtf/universal#4f5b7b6"
+    "gpii-universal": "github:christopher-rtf/universal#fd0e25e"
   },
   "os": [
     "!darwin",

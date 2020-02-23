@@ -30,5 +30,6 @@ var osstubs = fluid.registerNamespace("gpii.osstubs");
 
 require("./gpii/node_modules/OSStubsUtilities/OSStubsUtilities.js");
 require("./gpii/node_modules/nativeSettingsHandler");
+require("./gpii/node_modules/gpii-localisation");
 
 module.exports = fluid;
